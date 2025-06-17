@@ -1,2 +1,2 @@
 # maquinatragamonedas2.0
-Maquina con RTP del 94% para apuestas fijas de 1 unidad
+A diferencia de la primera máquina trqagamoneda, en esta máquina se tiene un RTP del 94% para apuestas fijas de 1 unidad, que es lo tradicional en este estilo de juegos, me falta modificar para que no se puedan hacer apuestas más grandes, pero estoy trabajando en ello.
