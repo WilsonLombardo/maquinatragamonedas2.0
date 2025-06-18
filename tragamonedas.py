@@ -51,7 +51,7 @@ class Application(tk.Frame):
         deposit_button.pack()
 
         # Etiqueta y entrada para la apuesta
-        bet_label = tk.Label(text="Ingrese su apuesta (Premios fijos)")
+        bet_label = tk.Label(text="Ingrese su apuesta de $1 (Premios fijos)")
         bet_label.pack()
 
         self.bet_var = tk.DoubleVar()
