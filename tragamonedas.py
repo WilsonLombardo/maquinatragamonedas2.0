@@ -162,7 +162,7 @@ class CasinoApp(tk.Tk):
         """Muestra información acerca de la aplicación."""
         about_msg = "Tragamonedas VIP v2.0\n\n" \
                    "RTP 94% garantizado\n" \
-                   "Creado por Wilson Lombardo\n\n" \
+                   "Creado por Daniela Fleitas, Luciano Boteggoni, Marcelo Escalante y Wilson Lombardo\n\n" \
                    "⚀⚁⚂⚃⚄⚅"
         messagebox.showinfo("Acerca de", about_msg)
         
